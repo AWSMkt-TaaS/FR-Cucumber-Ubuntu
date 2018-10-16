@@ -13,7 +13,7 @@ https://cloudgps.astadia.com/apphub-aws-mp-tee-user-guide
 If you want to jump right in and run tests and view reports follow along below:
 
 Option 1: From the Eclipse IDE:
-Click on Eclipse Neon icon and select the demo project “/home/centos/workspace-demo/” (default)  
+Click on Eclipse Neon icon and select the demo project “/home/<user>/workspace-demo/” (default)  
 
 In the package explorer of the Eclipse IDE:
 -	Expand the project “FR-Cucumber, right click on pom.xml and follow the steps below:
@@ -23,10 +23,10 @@ In the package explorer of the Eclipse IDE:
 
 
 Option 2 : From the Command Line :
-From KDE, select “Start” icon, enter “Konsole” into the input box and then click on the “Konsole” icon. 
+From Mate Desktop, select “Applications” >> "System Tools" >> Select the "MATE Terminal" menu. 
 
-In the Konsole Window, type the command:
-cd /home/centos/workspace-demo/FR-Cucumber/
+In the MATE Terminal Window, type the command:
+cd /home/<user>/workspace-demo/FR-Cucumber/
 Ensure the current directory is “FR-Cucumber” by using following command:
 ls
  
