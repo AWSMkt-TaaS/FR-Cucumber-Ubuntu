@@ -26,7 +26,7 @@ Option 2 : From the Command Line :
 From Mate Desktop, select “Applications” >> "System Tools" >> Select the "MATE Terminal" menu. 
 
 In the MATE Terminal Window, type the command:
-cd /home/<user>/workspace-demo/FR-Cucumber/
+cd /home/\<user>/workspace-demo/FR-Cucumber/
 Ensure the current directory is “FR-Cucumber” by using following command:
 ls
  
