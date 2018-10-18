@@ -803,3 +803,23 @@
 2018-10-18 05:20:43,272 [Worker-2] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /FR-Cucumber/src/test/resources
 2018-10-18 05:20:43,378 [Worker-2] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 32 sec
 2018-10-18 11:54:13,272 [Worker-0] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-10-18 13:29:42,653 [Worker-1] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-10-18 13:29:50,848 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-18 13:29:50,848 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/workspace-demo/FR-Cucumber/src/main/resources
+2018-10-18 13:29:50,884 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-18 13:29:50,966 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2018-10-18 13:29:54,101 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: demo.web.test:demo.web.test.fr.cucumber:0.0.1-SNAPSHOT @ /home/ubuntu/workspace-demo/FR-Cucumber/pom.xml.
+2018-10-18 13:29:56,190 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-18 13:29:56,191 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/workspace-demo/FR-Cucumber/src/main/resources
+2018-10-18 13:29:56,196 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-18 13:29:56,198 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-18 13:29:57,775 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: demo.web.test:demo.web.test.fr.cucumber:0.0.1-SNAPSHOT @ /home/ubuntu/workspace-demo/FR-Cucumber/pom.xml.
+2018-10-18 13:29:59,020 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-18 13:29:59,020 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/workspace-demo/FR-Cucumber/src/main/resources
+2018-10-18 13:29:59,031 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-18 13:29:59,041 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2018-10-18 13:31:50,815 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-10-18 13:32:04,674 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-18 13:32:04,675 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/ubuntu/workspace-demo/FR-Cucumber/src/main/resources
+2018-10-18 13:32:04,677 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-18 13:32:04,684 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
